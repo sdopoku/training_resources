@@ -81,13 +81,13 @@ In order to better tailor the activities planned for you, we have developed this
     + I have substantial experience
     + I have a high level of data literacy
 
-7. Do you incorporate data into your day-to-day work? Please elaborate why your role does or does not require you to work with data? [paragraph field]
+8. Do you incorporate data into your day-to-day work? Please elaborate why your role does or does not require you to work with data? [paragraph field, required]
 
-8. Do you feel that your work would benefit from better use of data? Please elaborate on your answer. [paragraph field]
+9. Do you feel that your work would benefit from better use of data? Please elaborate on your answer. [paragraph field, required]
 
-9. What do you view as the greatest challenges or barriers to utilising data in your role or organisation? [paragraph field]
+10. What do you view as the greatest challenges or barriers to utilising data in your role or organisation? [paragraph field, required]
 
-10. As part of the data training, which will be focused on data use, what would you like to learn the most? Pick two answers [multiple choice]
+10. As part of the data training, which will be focused on data use, what would you like to learn the most? Pick two answers [multiple choice, required]
     + General understanding of data and how it can be useful for my work
     + Specific data tools to use for my work
     + Examples of how data has been used on topics similar to mine
@@ -96,6 +96,8 @@ In order to better tailor the activities planned for you, we have developed this
     + Understanding how to collaborate with others on a data project
     + Other [Free Field]
 
-We also provide a sample template of the background survey for use: [Pre-training Background Survey - Word Doc](./pre_training_background_survey.docx)
+We also provide sample templates of the background survey for use: 
++ [Pre-training Background Survey - Word Doc](./pre_training_background_survey.docx)
++ [Pre-training Background Survey Google Form](https://goo.gl/forms/q3ZVwFUbifB7LBD33)
 
 ## Pre-training Quiz
