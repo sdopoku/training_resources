@@ -59,21 +59,23 @@ We are delighted to work with you and the [[Organisation Name]] to deliver a pra
 In order to better tailor the activities planned for you, we have developed this short survey to better understand your background, interests and expectations for the training. We anticipate this survey taking no more than 5 - 10 minutes.
 
 ### Questions
-1. Name [text field]
+1. What is your full name? [text field, required]
 
-2. Chapter Name [text field]
+2. What country do you primarily work in?[text field, required]
 
-3. What is/are the topic(s) of focus of your organisation? [paragraph]
+3. Current organisational affiliation in home country [text field, required]
 
-4.  What is/are your role(s) in your organisation?[text field]
+4. What is/are the topic(s) of focus of your organisation? [paragraph, required]
 
-5. How comfortable are you working in English (replace with main language of instruction)? [one-choice]
+5.  What is/are your role(s) in your organisation?[text field, required]
+
+6. How comfortable are you working in English (replace with main language of instruction)? [one-choice]
     + Extremely uncomfortable
     + Slightly uncomfortable
     + Comfortable having regular conversations
     + Comfortable having technical (using words such as correlation, database, scraping, version control) conversations
 
-6. How would you describe your level of data literacy? We define data literacy as the ability of organisations and individuals  to find, understand and use data to further their goals. [one-answer choice, with skip logic]:
+7. How would you describe your level of data literacy? We define data literacy as the ability of organisations and individuals  to find, understand and use data to further their goals. [one-answer choice, required]:
     + I do not know much about data
     + I have the basics
     + I have substantial experience
