@@ -1,12 +1,6 @@
 # School of Data Training Resources Repository
 This repository contains a list of resources that can be used in designing and delivering School of Data trainings and content.
 
-## Content Outline
-1. Overview 
-2. Pre-training Resources
-3. Training Resources
-4. Post-training Resources
-
 ## Overview
 School of Data's goal is to advanced data literacy across the world. A critical way we do this is through our training events and content on specific themes and for specific learners. Through years of delivering these trainings, we have developed a 3-stage process together with resources that allow us and other trainers buid the relevant content for a target audience. 
 
@@ -19,4 +13,10 @@ A core part of School of Data trainings and learning is the use of the [Data Pip
 
 It is critical that any School of Data trainer understands and can master the basics of the 7 stages of the pipeline in order to communicate its nuances as well as identify new tools and techniques for the targeted learners.
 
-## Pre-training Resources
+## Content Outline
+1. [Pre-training Resources](/pre-training)
+2. Training Resources
+3. Post-training Resources
+
+
+
