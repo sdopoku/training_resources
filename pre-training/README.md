@@ -32,7 +32,7 @@ This should happen as early as possible during the planning of the training and 
 ## Training Proposal
 This should be the next output after the initial training call. The goal is to produce a draft document that outlines a possible structure for the requested training. The focus should be on proposal a training format that meets the objectives of the training request, time constraints and budget. It also aims at providing clarity on any pending questions but ultimately to move the trainer and requester for training close to the point of getting official approval to deliver the training.
 
-See an example of a draft training proposal from work with Transparency International EU in 2018: [TI EU Training Proposal](./ti_training_proposal)
+See an example of a draft training proposal from work with Transparency International EU in 2018: [TI EU Training Proposal](/ti_training_proposal_sample.pdf)
 
 
 ## Pre-training Background Survey
