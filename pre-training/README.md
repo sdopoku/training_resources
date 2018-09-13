@@ -5,7 +5,7 @@ We recommend going through the activities below given how much time is available
 + [Training Request Call](#training-request-call)
 + [Training Proposal](#training-proposal)
 + [Pre-training Background Survey](#pre-training-background-survey)
-+ [Pre-training Assessment Quiz](#assessment-quiz)
++ [Pre-training Assessment Quiz](#pre-training-assessment-quiz)
 + Pre-training 1-on-1 Call
 
 # Stage 1
@@ -99,7 +99,7 @@ In order to better tailor the activities planned for you, we have developed this
 We also provide sample templates of the background survey for use: 
 + [Pre-training Background Survey - Word Doc](./pre_training_background_survey.docx)
 
-## Pre-training Quiz
+## Pre-training Assessment Quiz
 This is the second stage of the pre-assessment process. 
 
 ### Goals 
