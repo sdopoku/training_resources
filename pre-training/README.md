@@ -2,7 +2,7 @@
 Each training should contain a pre-training stage. This is where the trainer tries to understand the purpose of the training, the target audience and the relevant resources to preparation to deliver an effective training.
 
 We recommend going through the activities below given how much time is available to achieve an effective training:
-+ Training Request Call
++ [Training Request Call](#training-request-call)
 + Training Proposal
 + Pre-training Background Survey
 + Pre-training Assessment Quiz
@@ -16,7 +16,7 @@ This should happen as early as possible during the planning of the training and 
 
 ### Questions
 + Why is a training being requested?
-+ What need is the training trying to solve?
++ What need is the training trying to meet?
 + Have similar trainings taken place in the past? If so, what format did they take? Is there a documentation of the process?
 + Who are the target audience for this training?
 + What are the (immediate, medium-term and long-term) objectives of the training?
