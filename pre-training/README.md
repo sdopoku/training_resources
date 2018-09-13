@@ -98,7 +98,6 @@ In order to better tailor the activities planned for you, we have developed this
 
 We also provide sample templates of the background survey for use: 
 + [Pre-training Background Survey - Word Doc](./pre_training_background_survey.docx)
-+ [Pre-training Background Survey Google Form](https://goo.gl/forms/q3ZVwFUbifB7LBD33)
 
 ## Pre-training Quiz
 This is the second stage of the pre-assessment process. 
@@ -192,4 +191,3 @@ Below are example questions based on on a version of the US Foreign Aid Sector S
 
 We provide some sample templates based on previous quizzes for your use:
 + [Sampel Pre-Training Quiz Word Doc](./pre_training_assessment_quiz.docx)
-+ [Sample Pre-Training Quiz Google Form](https://goo.gl/forms/lTjO7NRKcs2S7Nms1)
