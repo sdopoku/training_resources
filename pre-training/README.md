@@ -5,7 +5,7 @@ We recommend going through the activities below given how much time is available
 + [Training Request Call](#training-request-call)
 + [Training Proposal](#training-proposal)
 + [Pre-training Background Survey](#pre-training-background-survey)
-+ [Pre-training Assessment Quiz](#pre-training-assessment-quiz)
++ [Pre-training Assessment Quiz](#assessment-quiz)
 + Pre-training 1-on-1 Call
 
 # Stage 1
