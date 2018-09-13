@@ -3,9 +3,9 @@ Each training should contain a pre-training stage. This is where the trainer tri
 
 We recommend going through the activities below given how much time is available to achieve an effective training:
 + [Training Request Call](#training-request-call)
-+ Training Proposal
-+ Pre-training Background Survey
-+ Pre-training Assessment Quiz
++ [Training Proposal](#training-proposal)
++ [Pre-training Background Survey](#pre-training-background-survey)
++ [Pre-training Assessment Quiz](#pre-training-assessment-quiz)
 + Pre-training 1-on-1 Call
 
 # Stage 1
